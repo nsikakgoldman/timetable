@@ -1,48 +1,48 @@
-Monday:
+###Monday:<br><br>
 
-6:00 am - 7:00 am: Exercise
-7:00 am - 8:00 am: Breakfast/Getting ready
-8:00 am - 12:00 pm: Lectures
-12:00 pm - 1:00 pm: Lunch
-1:00 pm - 3:00 pm: Work as a Developer
-3:00 pm - 4:00 pm: Lecture
-4:00 pm - 6:00 pm: Work as a Developer
-6:00 pm - 7:00 pm: Fellowship
-7:00 pm - 10:00 pm: Study
-10:00 pm - 11:00 pm: Dinner/Relaxation
-11:00 pm - 6:00 am: Sleep
+6:00 am - 7:00 am: Exercise <br>
+7:00 am - 8:00 am: Breakfast/Getting ready<br>
+8:00 am - 12:00 pm: Lectures<br>
+12:00 pm - 1:00 pm: Lunch<br>
+1:00 pm - 3:00 pm: Work as a Developer<br>
+3:00 pm - 4:00 pm: Lecture<br>
+4:00 pm - 6:00 pm: Work as a Developer<br>
+6:00 pm - 7:00 pm: Fellowship<br>
+7:00 pm - 10:00 pm: Study<br>
+10:00 pm - 11:00 pm: Dinner/Relaxation<br>
+11:00 pm - 6:00 am: Sleep<br><br>
 
-Tuesday:
+Tuesday:<br><br>
 
-[Follow a similar schedule as Monday, adjusting for lecture times.]
+[Follow a similar schedule as Monday, adjusting for lecture times.]<br><br>
 
-Wednesday:
+Wednesday:<br><br>
 
-6:00 am - 7:00 am: Exercise
-7:00 am - 8:00 am: Breakfast/Getting ready
-8:00 am - 10:00 am: Lectures
-10:00 am - 12:00 pm: Work as a Developer
-12:00 pm - 1:00 pm: Lunch
-1:00 pm - 6:00 pm: Work as a Developer
-6:00 pm - 7:00 pm: Fellowship
-7:00 pm - 10:00 pm: Study
-10:00 pm - 11:00 pm: Dinner/Relaxation
-11:00 pm - 6:00 am: Sleep
+6:00 am - 7:00 am: Exercise<br>
+7:00 am - 8:00 am: Breakfast/Getting ready<br>
+8:00 am - 10:00 am: Lectures<br>
+10:00 am - 12:00 pm: Work as a Developer<br>
+12:00 pm - 1:00 pm: Lunch<br>
+1:00 pm - 6:00 pm: Work as a Developer<br>
+6:00 pm - 7:00 pm: Fellowship<br>
+7:00 pm - 10:00 pm: Study<br>
+10:00 pm - 11:00 pm: Dinner/Relaxation<br>
+11:00 pm - 6:00 am: Sleep<br><br>
 
-Thursday:
+Thursday:<br><br>
 
-[Follow a similar schedule as Monday, adjusting for lecture times.]
+[Follow a similar schedule as Monday, adjusting for lecture times.]<br><br>
 
-Friday:
+Friday:<br><br>
 
-6:00 am - 7:00 am: Exercise
-7:00 am - 8:00 am: Breakfast/Getting ready
-8:00 am - 11:00 am: Lectures
-11:00 am - 12:00 pm: Work as a Developer
-12:00 pm - 1:00 pm: Lecture
-1:00 pm - 6:00 pm: Work as a Developer
-6:00 pm - 7:00 pm: Fellowship
-7:00 pm - 10:00 pm: Study
-10:00 pm - 11:00 pm: Dinner/Relaxation
-11:00 pm - 6:00 am: Sleep
+6:00 am - 7:00 am: Exercise<br>
+7:00 am - 8:00 am: Breakfast/Getting ready<br>
+8:00 am - 11:00 am: Lectures<br>
+11:00 am - 12:00 pm: Work as a Developer<br>
+12:00 pm - 1:00 pm: Lecture<br>
+1:00 pm - 6:00 pm: Work as a Developer<br>
+6:00 pm - 7:00 pm: Fellowship<br>
+7:00 pm - 10:00 pm: Study<br>
+10:00 pm - 11:00 pm: Dinner/Relaxation<br>
+11:00 pm - 6:00 am: Sleep<br>
 
