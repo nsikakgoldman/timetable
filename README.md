@@ -1,4 +1,4 @@
-###Monday:<br><br>
+### Monday:<br><br>
 
 6:00 am - 7:00 am: Exercise <br>
 7:00 am - 8:00 am: Breakfast/Getting ready<br>
@@ -12,11 +12,11 @@
 10:00 pm - 11:00 pm: Dinner/Relaxation<br>
 11:00 pm - 6:00 am: Sleep<br><br>
 
-Tuesday:<br><br>
+### Tuesday:<br><br>
 
 [Follow a similar schedule as Monday, adjusting for lecture times.]<br><br>
 
-Wednesday:<br><br>
+### Wednesday:<br><br>
 
 6:00 am - 7:00 am: Exercise<br>
 7:00 am - 8:00 am: Breakfast/Getting ready<br>
@@ -29,11 +29,11 @@ Wednesday:<br><br>
 10:00 pm - 11:00 pm: Dinner/Relaxation<br>
 11:00 pm - 6:00 am: Sleep<br><br>
 
-Thursday:<br><br>
+### Thursday:<br><br>
 
 [Follow a similar schedule as Monday, adjusting for lecture times.]<br><br>
 
-Friday:<br><br>
+### Friday:<br><br>
 
 6:00 am - 7:00 am: Exercise<br>
 7:00 am - 8:00 am: Breakfast/Getting ready<br>
